@@ -1,4 +1,6 @@
-### Hello Dev!! Meu nome e Guillermo, apaixonado por tecnologia, Argentino morando a 22 anos no Brasil.
+### Hello Dev!! Meu nome e Guillermo, AR in BR (22 years)
+
+
 
 <div>
   <a href="https://github.com/maynardgui">
