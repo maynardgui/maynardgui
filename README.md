@@ -8,13 +8,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maynardgui&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="guille-flutter" height="30" width="40" src="https://maindev.com.br/wp-content/uploads/2021/08/flutter-original-3.svg">
   <img align="center" alt="guille-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="guille-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="guille-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="guille-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="guille-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="guille-vue" height="30" width="40" src="https://maindev.com.br/wp-content/uploads/2021/08/vuejs-original.svg">
 </div>
 
  ##
