@@ -13,7 +13,7 @@
   <img align="center" alt="guille-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="guille-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="guille-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="guille-CSS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png">
+  <img align="center" alt="guille-CSS" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGKTYM-NWZse-y_AUfZuQSJqYKyhXP58IKOBDtHGNQ-vKMVeoDzCZpY-Erh5-ZRf3cB8&usqp=CAU">
 </div>
 
  ##
